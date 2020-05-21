@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0">
+    <testcase classname="Get Android Policy Feature" name="Get PolicyList Test Scenario" time="0">
+        <system-out>
+            <![CDATA[Given Get Policy Headers....................................................skipped
+Then user enters query parameters...........................................skipped
+When user makes get call with "getPolicy"...................................skipped
+Then user verify the results of get call....................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Add Android Policy Feature" name="Add Android Policy Test Scenario" time="0">
+        <system-out>
+            <![CDATA[Given Add android policy headers............................................skipped
+Then Add parameters "" "" "" "0" "0" "0" "0" "1" "" "" "" "1" "" "0" "0" "0" "AndroidPolicy1" "" "0" "" "" "" "" "100" "Android Policy Description." "3" "3" "0" "0" "" "2".skipped
+When user makes post call with "addPolicy"..................................skipped
+Then user verify the results................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Add Android Policy Feature" name="Add Android Policy Test Scenario 2" time="0">
+        <system-out>
+            <![CDATA[Given Add android policy headers............................................skipped
+Then Add parameters "" "" "" "0" "0" "0" "0" "1" "" "" "" "1" "" "0" "0" "0" "AndroidPolicy2" "" "0" "" "" "" "" "100" "Android Policy Description." "4" "3" "0" "0" "" "2".skipped
+When user makes post call with "addPolicy"..................................skipped
+Then user verify the results................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Edit Android Policy Feature" name="Get Android Policy Test Scenario" time="0">
+        <system-out>
+            <![CDATA[Given Get Policy Headers....................................................skipped
+Then user enters query parameters...........................................skipped
+When user makes get call with "getPolicy"...................................skipped
+Then user verify the results of get call....................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Edit Android Policy Feature" name="Edit Android Policy Test Scenario" time="0">
+        <system-out>
+            <![CDATA[Given Add android policy headers............................................skipped
+Then user Add parameters "" "" "" "" "0" "0" "0" "0" "1" "" "" "" "1" "" "0" "0" "0" "AndroidPolicy1" "" "0" "" "" "" "" "100" "Android Policy Description Edited." "3" "3" "0" "0" "" "2".skipped
+When user makes post call with "editPolicy".................................skipped
+Then user verify the results................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Edit Android Policy Feature" name="Edit Android Policy Test Scenario 2" time="0">
+        <system-out>
+            <![CDATA[Given Add android policy headers............................................skipped
+Then user Add parameters "" "" "" "" "0" "0" "0" "0" "1" "" "" "" "1" "" "0" "0" "0" "AndroidPolicy2" "" "0" "" "" "" "" "100" "Android Policy Description Edited." "4" "3" "0" "0" "" "2".skipped
+When user makes post call with "editPolicy".................................skipped
+Then user verify the results................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Delete Policy Feature" name="Delete Policy Test Scenario" time="0">
+        <system-out>
+            <![CDATA[Given Get Policy Headers....................................................skipped
+Then user enters query parameters...........................................skipped
+When user makes get call with "getPolicy"...................................skipped
+Then user verify the results of get call....................................skipped
+Given Get Policy Headers....................................................skipped
+Then user enters delete policy query parameters "AndroidPolicy1"............skipped
+When user makes get call with "deletePolicy"................................skipped
+Then user verify the results of get call....................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Delete Policy Feature" name="Delete Policy Test Scenario 2" time="0">
+        <system-out>
+            <![CDATA[Given Get Policy Headers....................................................skipped
+Then user enters query parameters...........................................skipped
+When user makes get call with "getPolicy"...................................skipped
+Then user verify the results of get call....................................skipped
+Given Get Policy Headers....................................................skipped
+Then user enters delete policy query parameters "AndroidPolicy2"............skipped
+When user makes get call with "deletePolicy"................................skipped
+Then user verify the results of get call....................................skipped
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

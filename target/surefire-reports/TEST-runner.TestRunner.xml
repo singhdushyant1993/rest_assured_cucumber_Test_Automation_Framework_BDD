@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="runner.TestRunner" time="18.167" tests="48" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Applications/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="maven.conf" value="/Applications/apache-maven-3.6.3/conf"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.6.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="/Applications/apache-maven-3.6.3"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/dushy"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.6.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="11.0.6+8-LTS"/>
+    <property name="user.name" value="dushy"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/hf/vw7wjxcs5yggxjpthss608gw0000gn/T/"/>
+    <property name="java.version" value="11.0.6"/>
+    <property name="user.dir" value="/Users/dushy/Documents/Eclipse Workspace/RestAssured_Api_Automation"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/dushy/Documents/Eclipse Workspace/RestAssured_Api_Automation"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/dushy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.6+8-LTS"/>
+    <property name="classworlds.conf" value="/Applications/apache-maven-3.6.3/bin/m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="library.jansi.path" value="/Applications/apache-maven-3.6.3/lib/jansi-native"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="Given Get Policy Headers" classname="| getPolicy |" time="0.001"/>
+  <testcase name="Given Get Policy Headers" classname="| getPolicy |" time="0"/>
+  <testcase name="Then user enters query parameters" classname="| getPolicy |" time="0"/>
+  <testcase name="Then user enters query parameters" classname="| getPolicy |" time="0"/>
+  <testcase name="When user makes get call with &quot;getPolicy&quot;" classname="| getPolicy |" time="0"/>
+  <testcase name="When user makes get call with &quot;getPolicy&quot;" classname="| getPolicy |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| getPolicy |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| getPolicy |" time="0"/>
+  <testcase name="| getPolicy |" classname="| getPolicy |" time="0.001"/>
+  <testcase name="| getPolicy |" classname="| getPolicy |" time="0.001"/>
+  <testcase name="Given Add android policy headers" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then Add parameters &quot;&quot; &quot;&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;1&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;1&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;AndroidPolicy1&quot; &quot;&quot; &quot;0&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;100&quot; &quot;Android Policy Description.&quot; &quot;3&quot; &quot;3&quot; &quot;0&quot; &quot;0&quot; &quot;&quot; &quot;2&quot;" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="When user makes post call with &quot;addPolicy&quot;" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user verify the results" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 3 | 3 | 0 | 0 |  | 2 |" time="0.002"/>
+  <testcase name="Given Add android policy headers" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then Add parameters &quot;&quot; &quot;&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;1&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;1&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;AndroidPolicy2&quot; &quot;&quot; &quot;0&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;100&quot; &quot;Android Policy Description.&quot; &quot;4&quot; &quot;3&quot; &quot;0&quot; &quot;0&quot; &quot;&quot; &quot;2&quot;" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="When user makes post call with &quot;addPolicy&quot;" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user verify the results" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" classname="| addPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description. | 4 | 3 | 0 | 0 |  | 2 |" time="0.001"/>
+  <testcase name="Given Add android policy headers" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user Add parameters &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;1&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;1&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;AndroidPolicy1&quot; &quot;&quot; &quot;0&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;100&quot; &quot;Android Policy Description Edited.&quot; &quot;3&quot; &quot;3&quot; &quot;0&quot; &quot;0&quot; &quot;&quot; &quot;2&quot;" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="When user makes post call with &quot;editPolicy&quot;" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user verify the results" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy1 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 3 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Given Add android policy headers" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user Add parameters &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;1&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;1&quot; &quot;&quot; &quot;0&quot; &quot;0&quot; &quot;0&quot; &quot;AndroidPolicy2&quot; &quot;&quot; &quot;0&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;100&quot; &quot;Android Policy Description Edited.&quot; &quot;4&quot; &quot;3&quot; &quot;0&quot; &quot;0&quot; &quot;&quot; &quot;2&quot;" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="When user makes post call with &quot;editPolicy&quot;" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="Then user verify the results" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" time="0"/>
+  <testcase name="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" classname="| editPolicy |  |  |  | 0 | 0 | 0 | 0 | 1 |  |  |  | 1 |  | 0 | 0 | 0 | AndroidPolicy2 |  | 0 |  |  |  |  | 100 | Android Policy Description Edited. | 4 |  | 3 | 0 | 0 |  | 2 |" time="0.001"/>
+  <testcase name="Given Get Policy Headers" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Given Get Policy Headers" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Then user enters query parameters" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="When user makes get call with &quot;getPolicy&quot;" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Then user enters delete policy query parameters &quot;AndroidPolicy1&quot;" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="When user makes get call with &quot;deletePolicy&quot;" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="| deletePolicy | AndroidPolicy1 |" classname="| deletePolicy | AndroidPolicy1 |" time="0"/>
+  <testcase name="Given Get Policy Headers" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="Given Get Policy Headers" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="Then user enters query parameters" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="When user makes get call with &quot;getPolicy&quot;" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="Then user verify the results of get call" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="Then user enters delete policy query parameters &quot;AndroidPolicy2&quot;" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="When user makes get call with &quot;deletePolicy&quot;" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+  <testcase name="| deletePolicy | AndroidPolicy2 |" classname="| deletePolicy | AndroidPolicy2 |" time="0"/>
+</testsuite>

@@ -1,0 +1,10 @@
+pojo/Policies.class
+pojo/AndroidPolicy.class
+enums/EndPoints.class
+pojo/AndroidEditPayload.class
+managers/RequestManager.class
+pojo/AndroidPayload.class
+managers/ConfigFileReader.class
+pojo/Response.class
+enums/Values.class
+utils/TestUtil.class
